@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "688753994435",
+    "project_id": "skillmesa",
+    "storage_bucket": "skillmesa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688753994435:android:05382db08940e2e0aa5076",
+        "android_client_info": {
+          "package_name": "com.example.skillmesa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688753994435-khgasrfkil9vio9vu1qck0biv6ntii5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh4NYSpf80bDTP68CPgCDS4LSxHtXXBH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688753994435-khgasrfkil9vio9vu1qck0biv6ntii5c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
